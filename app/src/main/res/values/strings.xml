@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrabishCloudNotification</string>
+    <string name="PREFERENCE">my_preference</string>
+    <string name="TOKEN">token</string>
+    <string name="token_filter">TOKEN_REQUEST</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>

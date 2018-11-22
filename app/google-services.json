@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "643812490200",
+    "firebase_url": "https://fir-cloudmessagingapp-8a805.firebaseio.com",
+    "project_id": "fir-cloudmessagingapp-8a805",
+    "storage_bucket": "fir-cloudmessagingapp-8a805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643812490200:android:b26fc2005c101089",
+        "android_client_info": {
+          "package_name": "com.eaziche.firebasecloudmessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643812490200-9mlqj18ttag4tnpbm6k839ohks4tu84m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eaziche.firebasecloudmessagingapp",
+            "certificate_hash": "228a2b26a4879da4ffddd6c2fd89a59db16f91c0"
+          }
+        },
+        {
+          "client_id": "643812490200-3h8ifm300afu4fu5ud55jt8j9bcv375t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgCHvcwGnpREXQSfXOG9oqpKSytQad03I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643812490200-3h8ifm300afu4fu5ud55jt8j9bcv375t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643812490200:android:9bc941547ec4cec0",
+        "android_client_info": {
+          "package_name": "com.eaziche.prabishcloudnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643812490200-r1ddujip7ov2hi15778m3ple685t4ni5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eaziche.prabishcloudnotification",
+            "certificate_hash": "228a2b26a4879da4ffddd6c2fd89a59db16f91c0"
+          }
+        },
+        {
+          "client_id": "643812490200-3h8ifm300afu4fu5ud55jt8j9bcv375t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgCHvcwGnpREXQSfXOG9oqpKSytQad03I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643812490200-3h8ifm300afu4fu5ud55jt8j9bcv375t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

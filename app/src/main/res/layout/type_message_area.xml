@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="bottom"
+    android:orientation="horizontal">
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/buttonAdd"
+        android:padding="4dp"
+        android:background="@drawable/orca_composer_popup_normal" />
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:layout_marginLeft="5dp"
+        android:id="@id/editTextMessage"
+        android:textColorHint="@color/colorAccent"
+        android:textColor="@color/colorAccent"
+        android:hint="Write a message" />
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/buttonSend"
+        android:padding="4dp"
+        android:background="@android:drawable/ic_menu_send" />
+</LinearLayout>
